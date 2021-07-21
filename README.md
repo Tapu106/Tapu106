@@ -35,6 +35,8 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=bd3911)
 
 
+### 📈 Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tapu106&show_icons=true&theme=radical)
 
 
 
