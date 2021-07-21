@@ -1,6 +1,4 @@
 ### Hello Folks!! 👋
- ![](https://komarev.com/ghpvc/?username=Tapu106&color=red)
-
 
 ## 😃 I am Tapu Das. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
 <!--
@@ -18,6 +16,7 @@
 [<img align="left" alt="Tapu106 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 ### 🔧 Technologies and Tools:
 
