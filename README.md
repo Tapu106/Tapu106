@@ -1,6 +1,6 @@
-### Hello Folks!! 👋
+## Hello Folks!! 👋
 
-## 😃 I am Tapu Das. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
+### 😃 I am Tapu Das. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
 <!--
 
 
