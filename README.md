@@ -1,4 +1,6 @@
 ### Hi there, I'm Tapu Das 👋
+ ![](https://komarev.com/ghpvc/?username=Tapu106&color=red)
+
 
 ## Loves to code, web developer and Blockchain enthusiast!!
 <!--
