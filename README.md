@@ -11,14 +11,14 @@
 -->
 
 
-### Connect with me:
+### 🤝 Connect with me:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tapu106 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 
-### Technologies and Tools:
+### 🔧 Technologies and Tools:
 
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c++&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=bd3911)
