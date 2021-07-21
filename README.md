@@ -21,6 +21,7 @@
 ### Languages and Tools:
 
 ![](https://img.shields.io/badge/OS-UBUNTU-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 
 
 
