@@ -34,9 +34,10 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
 
 
 ### 📈 Git Stats
