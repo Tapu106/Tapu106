@@ -25,6 +25,10 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Framework-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/Framework-Express.JS-informational?style=flat&logo=express.js&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/Database-Mongo DB-informational?style=flat&logo=mongodb&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/Library-React.JS-informational?style=flat&logo=react&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/OS-UBUNTU-informational?style=flat&logo=linux&logoColor=white&color=bd3911)
 
