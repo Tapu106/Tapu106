@@ -1,15 +1,15 @@
-### Hi there, I'm Tapu Das 👋
+### Hello Folks!! 👋
  ![](https://komarev.com/ghpvc/?username=Tapu106&color=red)
 
 
-## Loves to code, web developer and Blockchain enthusiast!!
+## 😃 I am Tapu Das. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
 <!--
 
 
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning new technologies
-- 🥅 2021 Goals: 
-- ⚡ Fun fact: I love to read books and watch detective movies
+- 🔭 I’m currently working on problem solving and my personal projects.
+- 🌱 I’m currently learning new technologies.
+- 🥅 2021 Goals: I want to improve my skills as a software engineer. 
+- ⚡ Fun fact: I love to read books and watch detective movies.
 -->
 
 
@@ -18,7 +18,6 @@
 [<img align="left" alt="Tapu106 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ### 🔧 Technologies and Tools:
 
