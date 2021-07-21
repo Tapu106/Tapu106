@@ -1,14 +1,12 @@
 ## Hello Folks!! 👋
 
 ### 😃 I am Tapu Das. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
-<!--
-
 
 - 🔭 I’m currently working on problem solving and my personal projects.
 - 🌱 I’m currently learning new technologies.
 - 🥅 2021 Goals: I want to improve my skills as a software engineer. 
 - ⚡ Fun fact: I love to read books and watch detective movies.
--->
+
 
 
 ### 🤝 Connect with me:
