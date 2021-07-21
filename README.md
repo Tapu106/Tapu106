@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/Library-React.JS-informational?style=flat&logo=react&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/OS-UBUNTU-informational?style=flat&logo=linux&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=bd3911)
 
 
