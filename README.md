@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=bd3911)
-![](https://img.shields.io/badge/Framework-Node.JS-informational?style=flat&logo=node&logoColor=white&color=bd3911)
+![](https://img.shields.io/badge/Framework-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=bd3911)
 ![](https://img.shields.io/badge/OS-UBUNTU-informational?style=flat&logo=linux&logoColor=white&color=bd3911)
 
